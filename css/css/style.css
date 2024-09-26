@@ -1,0 +1,13 @@
+h1{
+ color: aqua;
+ background-color: chartreuse
+ 
+}
+
+img{
+    padding: 100px;
+    border-width: 3px;
+    height: 100px;
+    width: 100px;
+    border: 2px red solid;
+};
